@@ -10,6 +10,7 @@ yarn install
 ```
 yarn serve
 ```
+### 공동작업시 package.lock.json 파일 같이 공유하여 버전 공유
 
 ### Compiles and minifies for production
 ```
